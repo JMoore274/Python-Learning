@@ -1,5 +1,5 @@
-bill = float(input('25: $'))
-tip_percent = int(input('10: '))
+bill = float(input('Enter the bill amount: $'))
+tip_percent = float(input('Tip percentage: '))
 
 tip = bill * (tip_percent / 100)
 total = bill + tip
