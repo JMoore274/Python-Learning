@@ -1,0 +1,9 @@
+# A simple list of file names
+files = ["status.txt", "data.csv", "users.text"]
+
+# A simple dictionary storing username and password
+user = {
+    "username": "james123",
+    "password": "superman456"
+}
+print(user)
